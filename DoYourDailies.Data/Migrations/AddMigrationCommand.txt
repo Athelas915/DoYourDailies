@@ -1,0 +1,1 @@
+﻿Add-Migration <migration-name> -Project DoYourDailies.Data
